@@ -1,4 +1,4 @@
-# data mining project repository
+# Data Mining Project Repository
 
 Group 32
 
