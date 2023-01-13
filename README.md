@@ -6,4 +6,4 @@ The raw datasets are not included here as you can download it on the website we 
 
 Some data files are too big to be uploaded directly, therefore we zipped it, you shall unzip it an put it in the same folder of all the other datasets.
 
-The applicaton result is uploaded at "result" folder, and it is only for you evaluation, you DO NOT need it for executing our program.
+The applicaton result is uploaded at "result" folder, and it is only for you evaluation, you **DO NOT** need it for executing our program.
